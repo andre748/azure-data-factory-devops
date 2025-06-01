@@ -5,8 +5,8 @@ Este repositório comprova a integração entre **Azure Data Factory** e **Azure
 
 ## Imagens de Comprovação
 
-1. **Branch `main` criado no Azure DevOps**  
-   ![1 - Branch main no Azure DevOps](./imagem1.png)
+1. **Configuração do git dentro do data factory**  
+   ![](./imagem1.png)
 
 2. **Git configurado no Data Factory (Dio-Project, branch trabalho)**  
    ![2 - Configuração do Git no Data Factory](./imagem2.png)
