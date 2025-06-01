@@ -14,4 +14,6 @@ Este repositório comprova a integração entre **Azure Data Factory** e **Azure
 3. **Pipeline `pipeline1.json` versionado no branch `trabalho`**  
    ![3 - Pipeline versionado no branch main](./imagem3.png)
 
+3. **Pipeline `pipeline1.json` versionado no branch `trabalho`**  
+   ![3 - Pipeline versionado no branch main](./imagem4.png)
 ---
