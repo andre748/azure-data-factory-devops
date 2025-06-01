@@ -5,15 +5,15 @@ Este repositório comprova a integração entre **Azure Data Factory** e **Azure
 
 ## Imagens de Comprovação
 
-1. **Configuração do git dentro do data factory**  
+1. **Git configurado no Data Factory (Dio-Project, branch trabalho)**  
    ![](./imagem1.png)
 
-2. **Git configurado no Data Factory (Dio-Project, branch trabalho)**  
-   ![2 - Configuração do Git no Data Factory](./imagem2.png)
+2. **Criação do pipeline dentro do data factory**  
+   ![](./imagem2.png)
 
-3. **Pipeline `pipeline1.json` versionado no branch `trabalho`**  
-   ![3 - Pipeline versionado no branch main](./imagem3.png)
+3. **Pipeline guardado dentro do repositorio**  
+   ![](./imagem3.png)
 
-3. **Pipeline `pipeline1.json` versionado no branch `trabalho`**  
-   ![3 - Pipeline versionado no branch main](./imagem4.png)
+3. **Alterações feitas no pipeline sendo guardadas**  
+   ![](./imagem4.png)
 ---
